@@ -1,0 +1,9 @@
+setup.py
+dir1/_init_.py
+dir1/sh.py
+dir2/_init_.py
+dir2/f2.py
+myapp.egg-info/PKG-INFO
+myapp.egg-info/SOURCES.txt
+myapp.egg-info/dependency_links.txt
+myapp.egg-info/top_level.txt
